@@ -1,5 +1,5 @@
 # Registry-Database
- A database made in SQL so users can log in as Registry Agent or a Traffic Officer and update the database accordingly. 
+ A database made in SQL so users can log in as Registry Agent or a Traffic Officer and update the database accordingly or query certain information whenever needed.
  
  This application uses python and SQL. 
  
